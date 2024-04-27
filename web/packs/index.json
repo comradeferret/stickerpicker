@@ -1,7 +1,10 @@
 {
   "packs": [
     "RPC.json",
-    "Species.json"
+    "Species.json",
+    "AltLynx.json",
+    "BetterHyena.json",
+    "CheGevara.json"
   ],
   "homeserver_url": "https://matrix.workersofthe.world"
 }
