@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "RPC.json"
+  ],
+  "homeserver_url": "https://matrix.workersofthe.world"
+}
