@@ -1,10 +1,9 @@
 {
   "packs": [
+    "AspenPineMarten.json",
     "RPC.json",
     "Species.json",
-    "AltLynx.json",
-    "BetterHyena.json",
-    "CheGevara.json"
+    "Lewdbold.json"
   ],
   "homeserver_url": "https://matrix.workersofthe.world"
 }
